@@ -1,0 +1,12 @@
+D:\Users\Felix\Google Drive\Projects\Chord Generator\Chord Generator\bin\Debug\Chord Generator.exe.config
+D:\Users\Felix\Google Drive\Projects\Chord Generator\Chord Generator\bin\Debug\Chord Generator.exe
+D:\Users\Felix\Google Drive\Projects\Chord Generator\Chord Generator\bin\Debug\Chord Generator.pdb
+D:\Users\Felix\Google Drive\Projects\Chord Generator\Chord Generator\obj\Debug\Chord Generator.csprojResolveAssemblyReference.cache
+D:\Users\Felix\Google Drive\Projects\Chord Generator\Chord Generator\obj\Debug\Chord_Generator.Form1.resources
+D:\Users\Felix\Google Drive\Projects\Chord Generator\Chord Generator\obj\Debug\Chord_Generator.Properties.Resources.resources
+D:\Users\Felix\Google Drive\Projects\Chord Generator\Chord Generator\obj\Debug\Chord Generator.csproj.GenerateResource.Cache
+D:\Users\Felix\Google Drive\Projects\Chord Generator\Chord Generator\obj\Debug\Chord Generator.exe
+D:\Users\Felix\Google Drive\Projects\Chord Generator\Chord Generator\obj\Debug\Chord Generator.pdb
+C:\Users\felix\Google Drive\Projects\Chord Generator\Chord Generator\bin\Debug\Chord Generator.exe.config
+C:\Users\felix\Google Drive\Projects\Chord Generator\Chord Generator\obj\Debug\Chord Generator.exe
+C:\Users\felix\Google Drive\Projects\Chord Generator\Chord Generator\obj\Debug\Chord Generator.pdb
